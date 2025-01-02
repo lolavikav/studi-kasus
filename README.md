@@ -40,6 +40,20 @@ Penjelasan:
 -Tidak ada spasi di seluruh string email.
 - Jika format email tidak sesuai, validasi akan gagal.
 
+4. Hail Validasi
+
+![outputhasilvalidasi](https://github.com/user-attachments/assets/bfacfb63-28ec-4b90-8bbc-aa5172e16db3)
+
+Penjelasan:
+
+- Jika ada elemen dalam daftar errors, setiap pesan kesalahan akan ditampilkan.
+- Jika tidak ada kesalahan, program akan menampilkan "Data pendaftaran valid."
+
+# Persyaratan
+
+- Python 3.x
+- Library re (sudah termasuk dalam Python standar)
+
 
 
 
