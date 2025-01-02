@@ -35,9 +35,11 @@ Penjelasan:
 Penjelasan:
 
 - Ekspresi reguler ^\S+@\S+\.\S+$ memastikan bahwa:
--Ada karakter sebelum @ (\S+ berarti non-spasi).
--Ada karakter sebelum dan sesudah ..
--Tidak ada spasi di seluruh string email.
+
+   - Ada karakter sebelum @ (\S+ berarti non-spasi).
+   - Ada karakter sebelum dan sesudah ..
+   - Tidak ada spasi di seluruh string email.
+
 - Jika format email tidak sesuai, validasi akan gagal.
 
 4. Hail Validasi
@@ -53,6 +55,25 @@ Penjelasan:
 
 - Python 3.x
 - Library re (sudah termasuk dalam Python standar)
+
+# Cara Menjalankan Program
+
+1. Clone repositori ini atau salin file program ke komputer Anda.
+2. Buka terminal atau command prompt.
+3. Jalankan program menggunakan perintah: bash python nama_file.py
+4. Masukkan data sesuai dengan permintaan program:
+
+   - Nama lengkap
+   - Nomor telepon
+   - Email
+5. Program akan menampilkan hasil validasi:
+
+   - Pesan "Data pendaftaran valid" jika semua input benar.
+   - Pesan kesalahan untuk setiap data yang tidak valid.
+
+# Input dan Output
+
+# Input
 
 
 
