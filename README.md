@@ -75,6 +75,27 @@ Penjelasan:
 
 # Input
 
+![code](https://github.com/user-attachments/assets/eb044bb0-55b2-4f7a-a02a-5215ec3092db)
+
+# Output Valid
+
+![outputvalid](https://github.com/user-attachments/assets/f5f71e9c-888e-4561-90a2-a5c16f77e12d)
+
+Masukkan nama lengkap: lola Masukkan nomor telepon: 0895 Masukkan email: lola@gmail.com Data pendaftaran valid.
+
+# Output Tidak Valid
+
+![outputtidakvalid](https://github.com/user-attachments/assets/8532d927-43e8-4a94-9c71-450935803a5a)
+
+Masukkan nama lengkap: lola123 Masukkan nomor telepon: 0859lola Masukkan email: lola.com Nama lengkap harus hanya berisi huruf. Nomor telepon harus hanya berisi angka. Email harus mengandung karakter @ dan . serta sesuai format yang benar.
+
+# Fitur Dan kemampuan
+- Kesesuaian dengan berbagai pengguna
+- Dapat Dimodifikasi
+- Keamanan dasar input
+- Laporan kesalahan yang spesifik
+
+
 
 
 
